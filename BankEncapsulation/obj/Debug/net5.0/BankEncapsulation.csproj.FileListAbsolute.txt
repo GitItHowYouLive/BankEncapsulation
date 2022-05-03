@@ -1,0 +1,16 @@
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.exe
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.deps.json
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.runtimeconfig.json
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.runtimeconfig.dev.json
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.dll
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.pdb
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.csproj.AssemblyReference.cache
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.dll
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\refint\BankEncapsulation.dll
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.pdb
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.genruntimeconfig.cache
+C:\Users\Terrence\Desktop\Repos\BankEncapsulation\BankEncapsulation\obj\Debug\net5.0\ref\BankEncapsulation.dll
