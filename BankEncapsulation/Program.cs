@@ -22,35 +22,13 @@ namespace BankEncapsulation
                     case "deposit":
                         Console.WriteLine("How much would you like to deposit today?");
                         double.TryParse(Console.ReadLine().Trim(), out var amount);
-
-                        if (amount <= 0)
-                        {
-                            Console.WriteLine("That is not a valid deposit. Please start over.");
-                        } 
-                        else
-                        {
-                            userAccount.Deposit(amount);
-                            Console.WriteLine($"{amount.ToString("C")} has been deposited, and your balance is now {userAccount.GetBalance().ToString("C")}");
-                        }
+                        userAccount.Deposit(amount);
                         break;
 
                     case "withdrawal":
                         Console.WriteLine("How much would you like to withdraw?");
                         double.TryParse(Console.ReadLine().Trim(), out var outage);
-
-                        if (outage <= 0)
-                        {
-                            Console.WriteLine("That is not a valid withdrawal amount. Please start over.");
-                        }
-                        else if (outage > userAccount.GetBalance())
-                        {
-                            Console.WriteLine($"I'm sorry, but you only have {userAccount.GetBalance().ToString("C")} available for withdrawal today.");
-                        }
-                        else
-                        {
-                            userAccount.Withdrawal(outage);
-                            Console.WriteLine($"Thank you for banking with Biggsby! Your balance is now {userAccount.GetBalance().ToString("C")}");
-                        }
+                        userAccount.Withdrawal(outage);
                         break;
 
                     case "balance":
